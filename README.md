@@ -28,6 +28,6 @@ Dieses Buch vermittelt anschaulich und verständlich die Entwicklung der moderne
 * [Erbgut schreiben](Kapitel_06/README.md)
 * [Gene und Gesetze](Kapitel_07/README.md)
 * [Gene und Gesellschaft](Kapitel_08/README.md)
-* [Gentechnik neu denken](Kapitel_09/README.md)
+* [Genetik neu denken](Kapitel_09/README.md)
 * [Und nun?](Kapitel_10/README.md)
 

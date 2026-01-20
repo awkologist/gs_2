@@ -1,6 +1,6 @@
 # Gentechnik im Wandel
 ## Wie CRISPR und KI unser Leben verändern
-### 2. Auflage, SpringerNature, ISBN 978-3-662-71409-6, [Link]{https://doi.org/10.1007/978-3-662-71410-2}
+### 2. Auflage, SpringerNature, ISBN 978-3-662-71409-6, [Link](https://doi.org/10.1007/978-3-662-71410-2)
 
 Dieses Repository enthält alle Abbildungen aus dem Buch.
 

@@ -18,3 +18,16 @@ Neue genomische Techniken ermöglichen präzise Eingriffe in das Erbgut – ganz
 Dieses Buch vermittelt anschaulich und verständlich die Entwicklung der modernen Gentechnologie. Es lädt dazu ein, ethische, gesellschaftliche und rechtliche Fragen zu diskutieren.
 
 **Neu in dieser Auflage**: Das Kapitel Gene und Gesetze beleuchtet die rechtlichen Rahmenbedingungen der Gentechnik in Züchtung und Medizin. Das Thema künstliche Intelligenz wurde erweitert, andere Kapitel wurden aktualisiert.
+
+## Kapitelübersicht
+* [Vorgedanken](Kapitel_01/README.md)
+* [Was ist Erbinformation?](Kapitel_02/README.md)
+* [Züchtung gestern bis heute](Kapitel_03/README.md)
+* [Erbgut lesen](Kapitel_04/README.md)
+* [Erbgut editieren](Kapitel_05/README.md)
+* [Erbgut schreiben](Kapitel_06/README.md)
+* [Gene und Gesetze](Kapitel_07/README.md)
+* [Gene und Gesellschaft](Kapitel_08/README.md)
+* [Gentechnik neu denken](Kapitel_09/README.md)
+* [Und nun?](Kapitel_10/README.md)
+

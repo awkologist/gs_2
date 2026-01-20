@@ -4,6 +4,11 @@
 
 Dieses Repository enthält alle Abbildungen aus meinem Buch.
 
+## Überblick
+* Erklärt Gentechnik leicht verständlich und für jedermann
+* Liefert Hintergründe, Historie und den aktuellen Stand der Gentechnologie
+* Motiviert zum offenen Dialog über Risiken und Zukunft der Gentechnik
+
 ## Zum Buch
 Durch die Genomeditierung mit der Genschere CRISPR/Cas und den Einsatz künstlicher Intelligenz bei der Analyse genetischer Daten erleben wir eine neue Dimension der Gentechnik. Wir sind die Generation mit der Genschere. Die Ergebnisse reichen von blutdrucksenkenden Tomaten und Gentherapien gegen Krebs über die Schaffung bakterieller Chassis als molekulare Werkstätten bis hin zur Wiedergeburt des ausgestorbenen Schattenwolfs und der ersten (Er)Zeugung von Designer-Babys.
 
